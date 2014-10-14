@@ -1,0 +1,35 @@
+{
+  "name": "express-widgets",
+  "version": "1.0.0",
+  "description": "Express Widgets",
+  "keywords": [
+    "express",
+    "helper",
+    "express-helpers",
+    "viewhelper",
+    "ejs"
+  ],
+  "author": {
+    "name": "Devadatta Sahoo",
+    "email": "devadatta@nettantra.com"
+  },
+  "contributors": [
+    {
+      "name": "Devadatta Sahoo",
+      "email": "devadatta@nettantra.com"
+    }
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">= 0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanema/express-widgets"
+  },
+  "dependencies": {
+    "ejs": "*"
+  }
+}
